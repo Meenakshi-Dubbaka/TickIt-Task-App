@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiUrl = "http://localhost:8000/";
+const apiUrl = "https://tickit-task-app-2.onrender.com";
 export const clientServer = axios.create({
   baseURL: apiUrl,
   withCredentials: true,
