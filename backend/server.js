@@ -12,7 +12,7 @@ const app = express();
 const port = 8000;
 app.use(
   cors({
-    origin: "tick-it-task-app.vercel.app",
+    origin: "https://tick-it-task-app.vercel.app",
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
