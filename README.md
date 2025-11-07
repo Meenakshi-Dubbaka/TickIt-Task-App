@@ -14,7 +14,7 @@ It features secure JWT-based authentication, a dynamic dashboard with CRUD funct
 - React Router for navigation
 - React Toastify for notifications
 
-### ⚙️ Backend
+###  Backend
 - Node.js with Express.js
 - MongoDB (Mongoose)
 - JWT Authentication
@@ -39,5 +39,5 @@ It features secure JWT-based authentication, a dynamic dashboard with CRUD funct
 
 ---
 
-## 🧱 Folder Structure
+
 
