@@ -17,7 +17,7 @@ export default function Register() {
         email,
         password,
       });
-      const data = await response.data;
+      const data = response.data;
       console.log(data);
 
       toast.success("Registration successful! Please login.");

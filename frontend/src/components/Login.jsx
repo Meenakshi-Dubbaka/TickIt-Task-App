@@ -17,7 +17,7 @@ export default function Login() {
         email,
         password,
       });
-      const data = await response.data;
+      const data = response.data;
       const { user } = data;
 
       if (user) {
